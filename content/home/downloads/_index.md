@@ -1,6 +1,6 @@
 +++
-title = "Downloads"
+title = "Pasatiempos e intereses"
 type = "download"
-weight = 3
+weight = 2
 +++
 
