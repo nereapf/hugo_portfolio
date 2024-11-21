@@ -1,11 +1,10 @@
 baseURL = 'nereapf.github.io/hugo_portfolio'
 languageCode = 'en-us'
-title = 'Protfolio de Nerea'
+title = 'Portfolio de Nerea'
 theme = 'hugo-initio'
 
 # Site Menus
 [menu]
-  # Navbar Menus
   [[menu.main]]
       name = "home"
       url = "/"
@@ -19,10 +18,41 @@ theme = 'hugo-initio'
       url = "/"
       weight = 3
   [[menu.main]]
-        name = "televisión"
-        url = "/"
-        weight = 4
+      name = "televisión"
+      url = "/"
+      weight = 4
   [[menu.main]]
-        name = "programación"
-        url = "/"
-        weight = 5
+      name = "programación"
+      url = "/"
+      weight = 5
+
+# Site Params
+[params]
+    showFooterFollowMe = true
+    avatar = "images/foto_dni.JPG"
+    description = "Alguna cosa sobre mí, sobre markdown, canales de televisión y mis estudios"
+    name = "Nerea Pellés Ferrer"
+    phone = "640570979"
+    email = "nereap492@gmail.com"
+    address = "Zaragoza, España"
+    [[params.showFooterContact]]
+    [[params.social]]
+      name = "GitHub"
+      url = "https://github.com/nereapf/"
+      icon = "fab fa-github"
+      footer = true
+
+    [[params.social]]
+      name = "Pinterest"
+      url = "https://es.pinterest.com/nereapelles/"
+      icon = "fab fa-pinterest"
+      footer = true
+
+    [[params.social]]
+      name = "Google"
+      url = "https://www.google.com/?hl=es"
+      icon = "fab fa-google"
+      footer = true
+
+    [[params.showFooterTextWidget]]
+    [[params.showFooterFormWidget]]

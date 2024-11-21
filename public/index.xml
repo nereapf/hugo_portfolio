@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Protfolio de Nerea</title>
+    <title>Portfolio de Nerea</title>
     <link>//localhost:1313/hugo_portfolio/</link>
-    <description>Recent content on Protfolio de Nerea</description>
+    <description>Recent content on Portfolio de Nerea</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/hugo_portfolio/index.xml" rel="self" type="application/rss+xml" />
