@@ -1,4 +1,28 @@
 baseURL = 'nereapf.github.io/hugo_portfolio'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Protfolio de Nerea'
 theme = 'hugo-initio'
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.main]]
+      name = "home"
+      url = "/"
+      weight = 1
+  [[menu.main]]
+      name = "pueblo"
+      url = "/"
+      weight = 2
+  [[menu.main]]
+      name = "markdown"
+      url = "/"
+      weight = 3
+  [[menu.main]]
+        name = "televisión"
+        url = "/"
+        weight = 4
+  [[menu.main]]
+        name = "programación"
+        url = "/"
+        weight = 5
