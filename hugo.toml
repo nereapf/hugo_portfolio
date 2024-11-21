@@ -11,19 +11,19 @@ theme = 'hugo-initio'
       weight = 1
   [[menu.main]]
       name = "pueblo"
-      url = "/"
+      url = "/pueblo/"
       weight = 2
   [[menu.main]]
       name = "markdown"
-      url = "/"
+      url = "/markdown/"
       weight = 3
   [[menu.main]]
       name = "televisión"
-      url = "/"
+      url = "/television/"
       weight = 4
   [[menu.main]]
       name = "programación"
-      url = "/"
+      url = "/programacion/"
       weight = 5
 
 # Site Params

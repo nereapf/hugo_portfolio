@@ -43,6 +43,13 @@
       <description>&lt;p&gt;Soy una chica que esta estudiando actualmente el grado superior de &lt;strong&gt;&amp;ldquo;Técnico superior de Desarrollo de aplicaciones web&amp;rdquo;&lt;/strong&gt;, y quiere ampliar sus conocimientos y conocer lugares nuevos.&#xA;También me gustaría tener la oportunidad de mejorar en distintas áreas de trabajo ya que lo considero útil y esencial para mi desarrollo profesional.&#xA;Para mí, uno de mis puntos fuertes es mi habilidad para entender y comunicarme con los demás trabajadores o clientes, además de tener algún punto débil como podría ser la indecisión.&#xA;La indecisión aunque lo vea como un punto débil en el trabajo puede llegar a ser beneficioso ya que pienso las cosas dos veces antes de hacelas.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Canales TV</title>
+      <link>//localhost:1313/hugo_portfolio/television/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/television/</guid>
+      <description>&lt;h1 id=&#34;canales-de-televisión&#34;&gt;Canales de televisión&lt;/h1&gt;&#xA;&lt;p&gt;Mostrar los canales de tv que hicimos en clase&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Escuela secundaria</title>
       <link>//localhost:1313/hugo_portfolio/home/services/estudio4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,11 +57,32 @@
       <description>&lt;p&gt;Tambien llamada E.S.O. a esta etapa educativa obligatoria y gratuita que completa la educación básica.&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; IES Pedro Laín Entralgo&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 09/2017 – 06/2021&lt;/p&gt;</description>
     </item>
     <item>
+      <title>HÍJAR</title>
+      <link>//localhost:1313/hugo_portfolio/pueblo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/pueblo/</guid>
+      <description>&lt;h1 id=&#34;bienvenido-a-mi-pueblo&#34;&gt;Bienvenido a mi pueblo&lt;/h1&gt;&#xA;&lt;p&gt;Aquí se mostrarán imágenes&lt;br&gt;&#xA;Probar a tener imagenes en directorio &lt;em&gt;data&lt;/em&gt; y crear un carrusel&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>//localhost:1313/hugo_portfolio/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/markdown/</guid>
+      <description>&lt;h1 id=&#34;explicación-de-markdown&#34;&gt;Explicación de MARKDOWN&lt;/h1&gt;&#xA;&lt;p&gt;Se harán explicaciones de markdown&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;básico&lt;/li&gt;&#xA;&lt;li&gt;de gráficos&lt;/li&gt;&#xA;&lt;li&gt;extendido&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>PRL (50h)</title>
       <link>//localhost:1313/hugo_portfolio/home/services/estudio3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/hugo_portfolio/home/services/estudio3/</guid>
       <description>&lt;p&gt;Certificado Prevención de Riesgos Laborales, que trata de un conjunto de medidas previstas para evitar que los trabajadores sufran algún daño derivado de su actividad, en cualquiera de las fases de producción de una empresa.&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; CPIFP Los Enlaces&lt;br&gt;&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 09/2021 – 06/2022&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Programación</title>
+      <link>//localhost:1313/hugo_portfolio/programacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/programacion/</guid>
+      <description>&lt;h1 id=&#34;explicación-de-contenidos&#34;&gt;Explicación de contenidos&lt;/h1&gt;&#xA;&lt;p&gt;Explicación de contenidos de algún modulo que tenga lenguaje de programación o especificación&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tecnico en SMR</title>

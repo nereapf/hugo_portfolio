@@ -2,27 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/hugo_portfolio/home/downloads/download1/</loc>
-  </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/services/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/downloads/viajar/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/downloads/fotografia/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/downloads/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/clients/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/downloads/deportes/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/downloads/musica/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/subheader/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/categories/</loc>
+    <loc>//localhost:1313/hugo_portfolio/television/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/downloads/download2/</loc>
+    <loc>//localhost:1313/hugo_portfolio/categories/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/services/estudio4/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/</loc>
   </url><url>
+    <loc>//localhost:1313/hugo_portfolio/markdown/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/pueblo/</loc>
+  </url><url>
     <loc>//localhost:1313/hugo_portfolio/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/services/estudio3/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/programacion/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/tags/</loc>
   </url><url>
