@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'nereapf.github.io/hugo_portfolio'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-initio'
