@@ -30,11 +30,17 @@ theme = 'hugo-initio'
 [params]
     showFooterFollowMe = true
     avatar = "images/foto_dni.JPG"
-    description = "Alguna cosa sobre mí, sobre markdown, canales de televisión y mis estudios"
+    avatarclass = "circle"
     name = "Nerea Pellés Ferrer"
+    description = "Alguna cosa sobre mí, sobre markdown, canales de televisión y mis estudios"
     phone = "640570979"
     email = "nereap492@gmail.com"
     address = "Zaragoza, España"
+    year = 2024
+    background = ""
+    banner = "images/fondo.jpg"
+    DateForm = "January 2, 2006"
+
     [[params.showFooterContact]]
     [[params.social]]
       name = "GitHub"
