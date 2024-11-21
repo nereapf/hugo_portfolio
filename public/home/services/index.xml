@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio de Nerea</title>
-    <link>//localhost:1313/hugo_portfolio/</link>
-    <description>Recent content on Portfolio de Nerea</description>
+    <title>Estudios on Portfolio de Nerea</title>
+    <link>//localhost:1313/hugo_portfolio/home/services/</link>
+    <description>Recent content in Estudios on Portfolio de Nerea</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/hugo_portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Download original template</title>
-      <link>//localhost:1313/hugo_portfolio/home/downloads/download1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/hugo_portfolio/home/downloads/download1/</guid>
-      <description>&lt;p&gt;A simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/hugo_portfolio/home/subheader/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/hugo_portfolio/home/subheader/</guid>
-      <description>&lt;p&gt;Soy una chica que esta estudiando actualmente el grado superior de &lt;strong&gt;&amp;ldquo;Técnico superior de Desarrollo de aplicaciones web&amp;rdquo;&lt;/strong&gt;, y quiere ampliar sus conocimientos y conocer lugares nuevos.&#xA;También me gustaría tener la oportunidad de mejorar en distintas áreas de trabajo ya que lo considero útil y esencial para mi desarrollo profesional.&#xA;Para mí, uno de mis puntos fuertes es mi habilidad para entender y comunicarme con los demás trabajadores o clientes, además de tener algún punto débil como podría ser la indecisión.&#xA;La indecisión aunque lo vea como un punto débil en el trabajo puede llegar a ser beneficioso ya que pienso las cosas dos veces antes de hacelas.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Download HUGO template</title>
-      <link>//localhost:1313/hugo_portfolio/home/downloads/download2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/hugo_portfolio/home/downloads/download2/</guid>
-      <description>&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="//localhost:1313/hugo_portfolio/home/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Escuela secundaria</title>
       <link>//localhost:1313/hugo_portfolio/home/services/estudio4/</link>

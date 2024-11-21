@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/hugo_portfolio/home/downloads/download1/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/services/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/recentworks/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/downloads/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/clients/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/subheader/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/services/service3/</loc>
+  </url><url>
     <loc>//localhost:1313/hugo_portfolio/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/downloads/download2/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/services/estudio2/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/</loc>
   </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/services/service4/</loc>
+  </url><url>
     <loc>//localhost:1313/hugo_portfolio/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/home/services/service2/</loc>
   </url>
 </urlset>

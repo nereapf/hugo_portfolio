@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Portfolio de Nerea</title>
+    <link>//localhost:1313/hugo_portfolio/home/</link>
+    <description>Recent content in Homes on Portfolio de Nerea</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/hugo_portfolio/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/hugo_portfolio/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/subheader/</guid>
+      <description>&lt;p&gt;Soy una chica que esta estudiando actualmente el grado superior de &lt;strong&gt;&amp;ldquo;Técnico superior de Desarrollo de aplicaciones web&amp;rdquo;&lt;/strong&gt;, y quiere ampliar sus conocimientos y conocer lugares nuevos.&#xA;También me gustaría tener la oportunidad de mejorar en distintas áreas de trabajo ya que lo considero útil y esencial para mi desarrollo profesional.&#xA;Para mí, uno de mis puntos fuertes es mi habilidad para entender y comunicarme con los demás trabajadores o clientes, además de tener algún punto débil como podría ser la indecisión.&#xA;La indecisión aunque lo vea como un punto débil en el trabajo puede llegar a ser beneficioso ya que pienso las cosas dos veces antes de hacelas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

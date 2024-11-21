@@ -29,6 +29,11 @@ theme = 'hugo-initio'
 # Site Params
 [params]
     showFooterFollowMe = true
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
+    showClients = true
     avatar = "images/foto_dni.JPG"
     avatarclass = "circle"
     name = "Nerea Pellés Ferrer"
