@@ -3,7 +3,11 @@ languageCode = 'en-us'
 title = 'Portfolio de Nerea'
 theme = 'hugo-initio'
 
-# Site Menus
+# Poner html en los md
+[markup.goldmark.renderer]
+  unsafe = true
+
+# Sites Menus
 [menu]
   [[menu.main]]
       name = "home"
