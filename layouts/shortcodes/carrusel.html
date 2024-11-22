@@ -1,0 +1,24 @@
+<!--Creación de un carrusel para las fotos del pueblo-->
+<div class="bootstrap-carrusel">
+    <div id="carruselHijar" class="carousel slide" data-ride="carousel">
+        <!--Guarda una imagen y la recoge en una variable-->
+        <div class="carousel-inner">
+            <!--Bucle para acceder a las fotos y su indice-->
+            {{ range $index, $image := .Site.Data.carrusel.images }}
+            <!--Pone como foto activa a la foto de indice 0, es decir la primera-->
+            <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
+                <img src="{{ $image.src }}" alt="{{ $image.alt }}" class="d-block w-100">
+            </div>
+            {{ end }}
+        </div>
+        <!--Botones para pasar de imagen-->
+        <a class="carousel-control-prev" href="#carruselHijar" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#carruselHijar" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Siguiente</span>
+        </a>
+    </div>
+</div>

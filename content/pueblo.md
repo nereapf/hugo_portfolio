@@ -1,8 +1,7 @@
 +++
-title = "HÍJAR"
+title = "LA VILLA DE HÍJAR"
 +++
 
-# Bienvenido a mi pueblo
+{{< carrusel >}}
+*El maravilloso pueblo de Híjar ubicado en Teruel, España.*
 
-Aquí se mostrarán imágenes  
-Probar a tener imagenes en directorio *data* y crear un carrusel

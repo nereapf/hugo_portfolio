@@ -1,0 +1,15 @@
+[[images]]
+    # src = "images/pueblo.jpg"
+    src = "https://imagenes.heraldo.es/files/image_990_auto/uploads/imagenes/2017/08/29/_26VistasdeHjardesdelaErmitadeSantaAna_a37af0c2.jpg"
+    alt = "foto del pueblo"
+
+[[images]]
+    # src = "images/plaza.jpg"
+    src = "https://imagenes.heraldo.es/files/image_990_auto/uploads/imagenes/2017/08/29/_18PlazadelaVilladeHjar_7c9f2c43.jpg"
+    alt = "foto de la plaza del pueblo"
+
+[[images]]
+    # src = "images/iglesia.jpg"
+    src = "https://imagenes.heraldo.es/files/image_990_auto/uploads/imagenes/2017/08/29/_25VistasdeHjardesdelaErmitadeSantaAna_eaab974e.jpg"
+    alt = "foto de la iglesia"
+
