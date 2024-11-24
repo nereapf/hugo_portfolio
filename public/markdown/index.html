@@ -6,7 +6,7 @@
   	<meta name="description" content="">
   	<meta name="author"      content="map[]">
 
-    	<title>Markdown</title>
+    	<title>uso del Markdown</title>
 	<link rel="shortcut icon" href="//localhost:1313/hugo_portfolio/">
 
 	
@@ -22,7 +22,17 @@
 	
 	
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+
 	
+	<script type="module">
+		import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+		mermaid.initialize({ startOnLoad: true });
+	</script>
+
+	
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+
 	
   
   <link rel="stylesheet" href="//localhost:1313/hugo_portfolio/css/styles.min.64a6643395c6bf1ec6fff31d6429046b3ad467e58a279ff252dc019edd80a87051cf90b7fe2d589277def72d84602dcbc7115e2e17a94db3a8838336986a0ae3.css" integrity="sha512-ZKZkM5XGvx7G//MdZCkEazrUZ&#43;WKJ5/yUtwBnt2AqHBRz5C3/i1Yknfe9y2EYC3LxxFeLhepTbOog4M2mGoK4w==">
@@ -111,15 +121,46 @@
 					<header class="entry-header">
  						<div class="entry-meta">
  						</div>
- 						<h1 class="entry-title"><a href="//localhost:1313/hugo_portfolio/markdown/" rel="bookmark">Markdown</a></h1>
+ 						<h1 class="entry-title"><a href="//localhost:1313/hugo_portfolio/markdown/" rel="bookmark">uso del Markdown</a></h1>
 					</header>
 					<div class="entry-content">
-						<h1 id="explicación-de-markdown">Explicación de MARKDOWN</h1>
-<p>Se harán explicaciones de markdown</p>
+						<p>Markdown es un lenguaje de marca que de una forma sencilla agrega formato a textos en la web y
+funciona incorporando algunos caracteres a nuestro contenido.</p>
+<p>Podemos ver tres secciones de markdown difernetes:</p>
 <ul>
-<li>básico</li>
-<li>de gráficos</li>
-<li>extendido</li>
+<li><a href="basico.md">Markdown basico</a></li>
+<li><a href="graficos.md">Markdown de gráficos</a></li>
+<li><a href="extendido.md">Markdown extendido</a></li>
+</ul>
+<h3 id="markdown-en-hugo">Markdown en HUGO</h3>
+<p>Markdown es el formato de contenido predeterminado de Hugo.<br>
+Hugo renderiza nativamente Markdown a HTML usando Goldmark. Goldmark es rápido y se ajusta a las especificaciones
+de CommonMark y GitHub Flavored Markdown. Puedes configurar Goldmark en la configuración de tu sitio.</p>
+<p>Hugo proporciona características personalizadas de Markdown que incluyen:</p>
+<ul>
+<li>
+<p><strong>Atributos</strong><br>
+Aplica atributos HTML como clase e id a las imágenes de Markdown y a los elementos
+de bloque, incluyendo citas, bloques de código delimitados, encabezados, reglas
+horizontales, listas, párrafos y tablas.</p>
+</li>
+<li>
+<p><strong>Extensiones</strong><br>
+Aprovecha las extensiones integradas de Markdown para crear tablas,
+listas de definiciones, notas al pie, listas de tareas, texto insertado,
+texto resaltado, subíndices, superíndices y más.</p>
+</li>
+<li>
+<p><strong>Matemáticas</strong><br>
+Incluye ecuaciones y expresiones matemáticas en Markdown
+usando la sintaxis de tipografía LaTeX o TeX.</p>
+</li>
+<li>
+<p><strong>Ganchos de renderizado</strong><br>
+Sobrescribe la conversión de Markdown a HTML al renderizar bloques de código delimitados,
+encabezados, imágenes y enlaces. Por ejemplo, renderiza cada imagen independiente
+como un elemento HTML.</p>
+</li>
 </ul>
 
 					</div>

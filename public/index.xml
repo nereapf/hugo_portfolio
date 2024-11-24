@@ -64,13 +64,6 @@
       <description>&lt;div id=&#34;carouselHijar&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;carousel-inner&#34;&gt;&#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;        &lt;div class=&#34;carousel-item active&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;%0d%0a![Pueblo]%28pueblo.jpg%29&#34; class=&#34;d-block w-100&#34; alt=&#34;Imagen del carrusel&#34;&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &#xD;&#xA;        &lt;div class=&#34;carousel-item &#34;&gt;&#xD;&#xA;            &lt;img src=&#34;![Plaza]%28plaza.jpg%29&#34; class=&#34;d-block w-100&#34; alt=&#34;Imagen del carrusel&#34;&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &#xD;&#xA;        &lt;div class=&#34;carousel-item &#34;&gt;&#xD;&#xA;            &lt;img src=&#34;![Iglesia]%28iglesia.jpg%29%0d%0a&#34; class=&#34;d-block w-100&#34; alt=&#34;Imagen del carrusel&#34;&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;a class=&#34;carousel-control-prev&#34; href=&#34;#carouselHijar&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;&#xD;&#xA;        &lt;span class=&#34;carousel-control-prev-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;&#xD;&#xA;        &lt;span class=&#34;sr-only&#34;&gt;Previous&lt;/span&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;    &lt;a class=&#34;carousel-control-next&#34; href=&#34;#carouselHijar&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;&#xD;&#xA;        &lt;span class=&#34;carousel-control-next-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;&#xD;&#xA;        &lt;span class=&#34;sr-only&#34;&gt;Next&lt;/span&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;&lt;em&gt;El maravilloso pueblo de Híjar ubicado en Teruel, España.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;historia&#34;&gt;HISTORIA&lt;/h2&gt;&#xA;&lt;p&gt;La historia de &lt;strong&gt;Híjar&lt;/strong&gt; está relacionada con la de su señorío.&#xA;&lt;strong&gt;Jaime I de Aragón&lt;/strong&gt;, el Conquistador, nacido en 1208 y muerto en Valencia en 1276, rey de Valencia y de Mallorca,&#xA;fue el responsable de recuperar el señorío de la ciudad instituyendo la Baronía de Híjar en el año 1267 para su hijo.&lt;br&gt;&#xA;Los Reyes Católicos elevaron el Señorío de Híjar a &lt;strong&gt;Ducado&lt;/strong&gt; en el año 1483 y en 1708, el rey &lt;strong&gt;Felipe V&lt;/strong&gt;,&#xA;le concedido el título de &lt;strong&gt;«Muy Noble y Leal Villa»&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Markdown</title>
-      <link>//localhost:1313/hugo_portfolio/markdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/hugo_portfolio/markdown/</guid>
-      <description>&lt;h1 id=&#34;explicación-de-markdown&#34;&gt;Explicación de MARKDOWN&lt;/h1&gt;&#xA;&lt;p&gt;Se harán explicaciones de markdown&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;básico&lt;/li&gt;&#xA;&lt;li&gt;de gráficos&lt;/li&gt;&#xA;&lt;li&gt;extendido&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>PRL (50h)</title>
       <link>//localhost:1313/hugo_portfolio/home/services/estudio3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -97,6 +90,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/hugo_portfolio/home/services/estudio1/</guid>
       <description>&lt;p&gt;Grado superior enfocado en desarrollo, mantenimiento e implantación de aplicaciones informáticas en diferentes entornos web, tanto en internet como en intranet y extranet.&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; CPIFP Los Enlaces&lt;br&gt;&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 13/09/2023 - cursando&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>uso del Markdown</title>
+      <link>//localhost:1313/hugo_portfolio/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/markdown/</guid>
+      <description>&lt;p&gt;Markdown es un lenguaje de marca que de una forma sencilla agrega formato a textos en la web y&#xA;funciona incorporando algunos caracteres a nuestro contenido.&lt;/p&gt;&#xA;&lt;p&gt;Podemos ver tres secciones de markdown difernetes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;basico.md&#34;&gt;Markdown basico&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;graficos.md&#34;&gt;Markdown de gráficos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;extendido.md&#34;&gt;Markdown extendido&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;markdown-en-hugo&#34;&gt;Markdown en HUGO&lt;/h3&gt;&#xA;&lt;p&gt;Markdown es el formato de contenido predeterminado de Hugo.&lt;br&gt;&#xA;Hugo renderiza nativamente Markdown a HTML usando Goldmark. Goldmark es rápido y se ajusta a las especificaciones&#xA;de CommonMark y GitHub Flavored Markdown. Puedes configurar Goldmark en la configuración de tu sitio.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
