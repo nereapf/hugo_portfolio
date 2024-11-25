@@ -26,8 +26,6 @@
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/pueblo/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/markdown/</loc>
-  </url><url>
     <loc>//localhost:1313/hugo_portfolio/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/services/estudio3/</loc>
@@ -39,5 +37,7 @@
     <loc>//localhost:1313/hugo_portfolio/home/services/estudio2/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/services/estudio1/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/markdown/</loc>
   </url>
 </urlset>
