@@ -1,10 +1,15 @@
-{{ partial "head/menu.html" . }}
+{{ partial "head/head.html" . }}
+{{ partial "head/header.html" . }}
+<br>
+<h1 class="entry-title">
+    <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+</h1>
 {{.Content}}
 
 <ul>
-    <h1>LISTA DE CANALES</h1>
     {{range .Site.Data.tv}}
     <table>
+        <br>
         <h2>{{.name}}</h2>
         {{$contador := 0}}
         <tr>
@@ -23,3 +28,5 @@
     </table>
     {{end}}
 </ul>
+
+{{ partial "footer/footer.html" . }}
