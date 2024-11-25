@@ -16,8 +16,6 @@
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/subheader/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/television/</loc>
-  </url><url>
     <loc>//localhost:1313/hugo_portfolio/categories/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/services/estudio4/</loc>
@@ -37,6 +35,10 @@
     <loc>//localhost:1313/hugo_portfolio/home/services/estudio2/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/services/estudio1/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/television/television/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo_portfolio/television/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/markdown/</loc>
   </url>

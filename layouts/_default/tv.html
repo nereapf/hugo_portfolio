@@ -1,0 +1,25 @@
+{{ partial "head/menu.html" . }}
+{{.Content}}
+
+<ul>
+    <h1>LISTA DE CANALES</h1>
+    {{range .Site.Data.tv}}
+    <table>
+        <h2>{{.name}}</h2>
+        {{$contador := 0}}
+        <tr>
+            {{range .channels}}
+            <td>
+                <a href="{{.web}}">
+                    <img src="{{.logo}}" alt="{{.name}}">
+                </a>
+            </td>
+            {{$contador = add $contador 1}}
+            {{if eq (mod $contador 5) 0}}
+        </tr><tr>
+        {{end}}
+        {{end}}
+    </tr>
+    </table>
+    {{end}}
+</ul>

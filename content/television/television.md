@@ -1,5 +1,6 @@
 +++
-title = "Canales TV"
+title = "Television"
+layout = "tv"
 +++
 
 # Canales de televisión
