@@ -3,9 +3,6 @@ title = "LA VILLA DE HÍJAR"
 +++
 
 {{< carrusel >}}
-![Pueblo](pueblo.jpg),![Plaza](plaza.jpg),![Iglesia](iglesia.jpg)
-{{< /carrusel >}}
-
 
 *El maravilloso pueblo de Híjar ubicado en Teruel, España.*
 
