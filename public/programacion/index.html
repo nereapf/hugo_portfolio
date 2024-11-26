@@ -127,9 +127,79 @@
  						<h1 class="entry-title"><a href="//localhost:1313/hugo_portfolio/programacion/" rel="bookmark">Programación</a></h1>
 					</header>
 					<div class="entry-content">
-						<h1 id="explicación-de-contenidos">Explicación de contenidos</h1>
-<p>Explicación de contenidos de algún modulo que tenga lenguaje de programación o especificación</p>
-
+						<h1 id="desarrollo-web-en-entorno-servidor">Desarrollo web en entorno servidor</h1>
+<p>En este módulo se imparte el lenguaje de programación de PHP.<br>
+PHP es un lenguaje de scripting que se ejecuta en el servidor y genera HTML, CSS, JavaScript y otros contenidos para enviar al navegador del usuario.</p>
+<h2 id="php"><strong>PHP</strong></h2>
+<p>Es un lenguaje de programación destinado a desarrollar aplicaciones para la web y crear páginas web.
+Originalmente, se creó para generar contenido dinámico en sitios web, y hoy en día es una de las tecnologías más comunes para desarrollar aplicaciones y servicios web interactivos.</p>
+<ul>
+<li><strong>Desarrollo de sitios web dinámicos:</strong> PHP genera contenido personalizado para cada usuario, como páginas de inicio de sesión, paneles de usuario, y perfiles personalizados.</li>
+<li><strong>Manejo de bases de datos:</strong> Con PHP, puedes conectarte a bases de datos (como MySQL o PostgreSQL) para almacenar, recuperar y manipular datos de usuarios, productos, comentarios, etc.</li>
+<li><strong>Automatización de tareas en el servidor:</strong> PHP puede programarse para realizar tareas repetitivas, como enviar correos electrónicos, generar informes o procesar archivos.</li>
+</ul>
+<p>Un ejemplo básico de php es generar un mensaje:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span><span style="color:#75715e">&lt;?php
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    $nombre = &#34;Nerea&#34;;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    echo &#34;¡Hola, $nombre! Este mensaje está hecho con PHP.&#34;;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">?&gt;</span>
+</span></span></code></pre></div><p>También con php se pueden crear páginas junto con html y css un poco más complejos como
+generadores de números random, imprimir números y textos con formatos y colores y muchas otras cosas.</p>
+<p>Además de esto también se pueden implementar otras funcionalidades.</p>
+<h4 id="funciones">Funciones</h4>
+<p>Las funciones en PHP son bloques de código que realizan una tarea específica, las cuales pueden conseguir crear
+aplicaciones funcionales para el usuario junto a html y css.</p>
+<p><strong>INTEGRADAS</strong><br>
+Existen diferntes funciones tanto para textos, números, arrays, etc&hellip;</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span><span style="color:#75715e">&lt;?php
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    //contar números
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    $numeros = [1, 2, 3, 4, 5];
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    echo count($numeros);
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    //tipo fecha (año-mes-día)
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    echo date(&#34;Y-m-d&#34;);
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    //número aleatorio
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    echo rand(1, 100);
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">?&gt;</span>
+</span></span></code></pre></div><p><strong>DEFINIDAS POR EL USUARIO</strong><br>
+Se pueden crear unciones para realizar cosas específicas, este es ejemplo de una básica.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span><span style="color:#75715e">&lt;?php
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    function suma($numero1, $numero2) {
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    $resultado = $numero1 + $numero2;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    return $resultado;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">}
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">?&gt;</span>
+</span></span></code></pre></div><h4 id="orientado-a-objetos">Orientado a objetos</h4>
+<p>En PHP orientado a objetos existen unos conceptos básicos.</p>
+<ul>
+<li>Clase: Plantilla para crear objetos</li>
+<li>Objeto: Instancia de una clase</li>
+<li>Método: Funciones ubicadas dentro de las clases</li>
+<li>Contructor: Método especial para inicializar las propiedades de la clase</li>
+<li>To string: Método especial para mostrar por pantalla la clase</li>
+</ul>
+<p>Además de los conceptos básicos también existe la herencia, abtracción y más, pero este es un ejemplo básico.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span><span style="color:#75715e">&lt;?php
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">class Persona {
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    public $nombre;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    public $edad;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    public function __construct($nombre, $edad) {
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">        $this-&gt;nombre = $nombre;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">        $this-&gt;edad = $edad;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    }
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    public function __toString() {
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">        return &#34;Persona con nombre, $this-&gt;nombre tiene $this-&gt;edad años.&#34;;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">    }
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">}
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// Crear un objeto de la clase Persona para poder mostrarlo
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">$persona = new Persona(&#34;Nerea&#34;, &#34;19&#34;);
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">echo &lt;p&gt;$persona&lt;/p&gt;;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">?&gt;</span>
+</span></span></code></pre></div>
 					</div>
 				</article>
 

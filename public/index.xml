@@ -75,7 +75,7 @@
       <link>//localhost:1313/hugo_portfolio/programacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/hugo_portfolio/programacion/</guid>
-      <description>&lt;h1 id=&#34;explicación-de-contenidos&#34;&gt;Explicación de contenidos&lt;/h1&gt;&#xA;&lt;p&gt;Explicación de contenidos de algún modulo que tenga lenguaje de programación o especificación&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;desarrollo-web-en-entorno-servidor&#34;&gt;Desarrollo web en entorno servidor&lt;/h1&gt;&#xA;&lt;p&gt;En este módulo se imparte el lenguaje de programación de PHP.&lt;br&gt;&#xA;PHP es un lenguaje de scripting que se ejecuta en el servidor y genera HTML, CSS, JavaScript y otros contenidos para enviar al navegador del usuario.&lt;/p&gt;&#xA;&lt;h2 id=&#34;php&#34;&gt;&lt;strong&gt;PHP&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Es un lenguaje de programación destinado a desarrollar aplicaciones para la web y crear páginas web.&#xA;Originalmente, se creó para generar contenido dinámico en sitios web, y hoy en día es una de las tecnologías más comunes para desarrollar aplicaciones y servicios web interactivos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tecnico en SMR</title>

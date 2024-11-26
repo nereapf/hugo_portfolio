@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programacions on Portfolio de Nerea</title>
+    <link>//localhost:1313/hugo_portfolio/programacion/</link>
+    <description>Recent content in Programacions on Portfolio de Nerea</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/hugo_portfolio/programacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programación</title>
+      <link>//localhost:1313/hugo_portfolio/programacion/programacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/programacion/programacion/</guid>
+      <description>&lt;h1 id=&#34;explicación-de-contenidos&#34;&gt;Explicación de contenidos&lt;/h1&gt;&#xA;&lt;p&gt;Explicación de contenidos de algún modulo que tenga lenguaje de programación o especificación&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
