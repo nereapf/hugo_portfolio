@@ -1,4 +1,4 @@
-baseURL = 'nereapf.github.io/hugo_portfolio'
+baseURL = 'https://nereapf.github.io/hugo_portfolio'
 languageCode = 'en-us'
 title = 'Portfolio de Nerea'
 theme = 'hugo-initio'

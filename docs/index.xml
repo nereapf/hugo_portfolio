@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio de Nerea</title>
+    <link>//localhost:1313/hugo_portfolio/</link>
+    <description>Recent content on Portfolio de Nerea</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/hugo_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viajar</title>
+      <link>//localhost:1313/hugo_portfolio/home/download/viajar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/download/viajar/</guid>
+      <description>&lt;p&gt;Siempre me ha apasionado viajar, ir a todos los países que pueda para conocer culturas, haciendo todo lo que pueda para conseguirlo. Y estoy segura de que lo lograré ya que me queda toda la vida por delante.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fotografía</title>
+      <link>//localhost:1313/hugo_portfolio/home/download/fotografia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/download/fotografia/</guid>
+      <description>&lt;p&gt;Desde pequeña me han llamado la atención las cámaras, por lo que siempre que puedo hago fotos a mi entorno para capturar los momentos y tener un recuerdo de ellos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deportes</title>
+      <link>//localhost:1313/hugo_portfolio/home/download/deportes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/download/deportes/</guid>
+      <description>&lt;p&gt;Soy una persona a la que le gusta probar cosas nuevas, por lo que he probado diferentes deportes. A lo largo de mi vida he jugado baloncesto, tenis, he dado clases de GAP, y he aprendido a hacer skate. Y a día de hoy también he probado el esquí y el surf aunque no los practico profesionalmente.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Música</title>
+      <link>//localhost:1313/hugo_portfolio/home/download/musica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/download/musica/</guid>
+      <description>&lt;p&gt;Me encanta la música por que me ha acompañado a lo largo de mi vida, escuchando música en el día a día además de haber dado clases de piano por 4 años.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/hugo_portfolio/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/subheader/</guid>
+      <description>&lt;p&gt;Soy una chica que esta estudiando actualmente el grado superior de &lt;strong&gt;&amp;ldquo;Técnico superior de Desarrollo de aplicaciones web&amp;rdquo;&lt;/strong&gt;, y quiere ampliar sus conocimientos y conocer lugares nuevos.&#xA;También me gustaría tener la oportunidad de mejorar en distintas áreas de trabajo ya que lo considero útil y esencial para mi desarrollo profesional.&#xA;Para mí, uno de mis puntos fuertes es mi habilidad para entender y comunicarme con los demás trabajadores o clientes, además de tener algún punto débil como podría ser la indecisión.&#xA;La indecisión aunque lo vea como un punto débil en el trabajo puede llegar a ser beneficioso ya que pienso las cosas dos veces antes de hacelas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Canales Televisión</title>
+      <link>//localhost:1313/hugo_portfolio/television/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/television/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Escuela secundaria</title>
+      <link>//localhost:1313/hugo_portfolio/home/service/estudio4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/service/estudio4/</guid>
+      <description>&lt;p&gt;Tambien llamada E.S.O. a esta etapa educativa obligatoria y gratuita que completa la educación básica.&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; IES Pedro Laín Entralgo&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 09/2017 – 06/2021&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LA VILLA DE HÍJAR</title>
+      <link>//localhost:1313/hugo_portfolio/pueblo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/pueblo/</guid>
+      <description>&lt;div id=&#34;carruselHijar&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;carousel-inner&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;carousel-item active&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;pueblo.jpg&#34; class=&#34;d-block w-100&#34; alt=&#34;Pueblo&#34;&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;carousel-item&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;plaza.jpg&#34; class=&#34;d-block w-100&#34; alt=&#34;Plaza&#34;&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;carousel-item&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;iglesia.jpg&#34; class=&#34;d-block w-100&#34; alt=&#34;Iglesia&#34;&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;a class=&#34;carousel-control-prev&#34; href=&#34;#carruselHijar&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;&#xD;&#xA;        &lt;span class=&#34;carousel-control-prev-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;&#xD;&#xA;        &lt;span class=&#34;sr-only&#34;&gt;Previous&lt;/span&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;    &lt;a class=&#34;carousel-control-next&#34; href=&#34;#carruselHijar&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;&#xD;&#xA;        &lt;span class=&#34;carousel-control-next-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;&#xD;&#xA;        &lt;span class=&#34;sr-only&#34;&gt;Next&lt;/span&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;&lt;em&gt;El maravilloso pueblo de Híjar ubicado en Teruel, España.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;historia&#34;&gt;HISTORIA&lt;/h2&gt;&#xA;&lt;p&gt;La historia de &lt;strong&gt;Híjar&lt;/strong&gt; está relacionada con la de su señorío.&#xA;&lt;strong&gt;Jaime I de Aragón&lt;/strong&gt;, el Conquistador, nacido en 1208 y muerto en Valencia en 1276, rey de Valencia y de Mallorca,&#xA;fue el responsable de recuperar el señorío de la ciudad instituyendo la Baronía de Híjar en el año 1267 para su hijo.&lt;br&gt;&#xA;Los Reyes Católicos elevaron el Señorío de Híjar a &lt;strong&gt;Ducado&lt;/strong&gt; en el año 1483 y en 1708, el rey &lt;strong&gt;Felipe V&lt;/strong&gt;,&#xA;le concedido el título de &lt;strong&gt;«Muy Noble y Leal Villa»&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PRL (50h)</title>
+      <link>//localhost:1313/hugo_portfolio/home/service/estudio3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/service/estudio3/</guid>
+      <description>&lt;p&gt;Certificado Prevención de Riesgos Laborales, que trata de un conjunto de medidas previstas para evitar que los trabajadores sufran algún daño derivado de su actividad, en cualquiera de las fases de producción de una empresa.&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; CPIFP Los Enlaces&lt;br&gt;&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 09/2021 – 06/2022&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Programación</title>
+      <link>//localhost:1313/hugo_portfolio/programacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/programacion/</guid>
+      <description>&lt;h1 id=&#34;desarrollo-web-en-entorno-servidor&#34;&gt;Desarrollo web en entorno servidor&lt;/h1&gt;&#xA;&lt;p&gt;En este módulo se imparte el lenguaje de programación de PHP.&lt;br&gt;&#xA;PHP es un lenguaje de scripting que se ejecuta en el servidor y genera HTML, CSS, JavaScript y otros contenidos para enviar al navegador del usuario.&lt;/p&gt;&#xA;&lt;h2 id=&#34;php&#34;&gt;&lt;strong&gt;PHP&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Es un lenguaje de programación destinado a desarrollar aplicaciones para la web y crear páginas web.&#xA;Originalmente, se creó para generar contenido dinámico en sitios web, y hoy en día es una de las tecnologías más comunes para desarrollar aplicaciones y servicios web interactivos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tecnico en SMR</title>
+      <link>//localhost:1313/hugo_portfolio/home/service/estudio2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/service/estudio2/</guid>
+      <description>&lt;p&gt;Grado medio que prepara al alumno para el mundo laboral en el sector de la informática y las comunicaciones&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; CPIFP Bajo Aragón&lt;br&gt;&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 15/09/2021 – 19/06/2023&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tecnico superior de DAW</title>
+      <link>//localhost:1313/hugo_portfolio/home/service/estudio1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/service/estudio1/</guid>
+      <description>&lt;p&gt;Grado superior enfocado en desarrollo, mantenimiento e implantación de aplicaciones informáticas en diferentes entornos web, tanto en internet como en intranet y extranet.&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; CPIFP Los Enlaces&lt;br&gt;&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 13/09/2023 - cursando&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uso del Markdown</title>
+      <link>//localhost:1313/hugo_portfolio/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/markdown/</guid>
+      <description>&lt;p&gt;Markdown es un lenguaje de marca que de una forma sencilla agrega formato a textos en la web y&#xA;funciona incorporando algunos caracteres a nuestro contenido.&lt;/p&gt;&#xA;&lt;p&gt;Podemos ver tres secciones de markdown difernetes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./basico/&#34;&gt;Markdown básico&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./graficos/&#34;&gt;Markdown de gráficos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./extendido/&#34;&gt;Markdown extendido&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;markdown-en-hugo&#34;&gt;Markdown en HUGO&lt;/h3&gt;&#xA;&lt;p&gt;Markdown es el formato de contenido predeterminado de Hugo.&lt;br&gt;&#xA;Hugo renderiza nativamente Markdown a HTML usando Goldmark. Goldmark es rápido y se ajusta a las especificaciones&#xA;de CommonMark y GitHub Flavored Markdown. Puedes configurar Goldmark en la configuración de tu sitio.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

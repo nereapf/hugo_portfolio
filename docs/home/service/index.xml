@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estudios on Portfolio de Nerea</title>
+    <link>//localhost:1313/hugo_portfolio/home/service/</link>
+    <description>Recent content in Estudios on Portfolio de Nerea</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/hugo_portfolio/home/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escuela secundaria</title>
+      <link>//localhost:1313/hugo_portfolio/home/service/estudio4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/service/estudio4/</guid>
+      <description>&lt;p&gt;Tambien llamada E.S.O. a esta etapa educativa obligatoria y gratuita que completa la educación básica.&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; IES Pedro Laín Entralgo&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 09/2017 – 06/2021&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PRL (50h)</title>
+      <link>//localhost:1313/hugo_portfolio/home/service/estudio3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/service/estudio3/</guid>
+      <description>&lt;p&gt;Certificado Prevención de Riesgos Laborales, que trata de un conjunto de medidas previstas para evitar que los trabajadores sufran algún daño derivado de su actividad, en cualquiera de las fases de producción de una empresa.&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; CPIFP Los Enlaces&lt;br&gt;&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 09/2021 – 06/2022&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tecnico en SMR</title>
+      <link>//localhost:1313/hugo_portfolio/home/service/estudio2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/service/estudio2/</guid>
+      <description>&lt;p&gt;Grado medio que prepara al alumno para el mundo laboral en el sector de la informática y las comunicaciones&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; CPIFP Bajo Aragón&lt;br&gt;&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 15/09/2021 – 19/06/2023&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tecnico superior de DAW</title>
+      <link>//localhost:1313/hugo_portfolio/home/service/estudio1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/service/estudio1/</guid>
+      <description>&lt;p&gt;Grado superior enfocado en desarrollo, mantenimiento e implantación de aplicaciones informáticas en diferentes entornos web, tanto en internet como en intranet y extranet.&lt;br&gt;&#xA;&lt;strong&gt;CENTRO:&lt;/strong&gt; CPIFP Los Enlaces&lt;br&gt;&#xA;&lt;strong&gt;CURSADO:&lt;/strong&gt; 13/09/2023 - cursando&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
