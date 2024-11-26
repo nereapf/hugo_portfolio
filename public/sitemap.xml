@@ -2,23 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/hugo_portfolio/home/services/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/service/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/downloads/viajar/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/download/viajar/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/downloads/fotografia/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/download/fotografia/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/downloads/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/download/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/downloads/deportes/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/download/deportes/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/downloads/musica/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/download/musica/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/subheader/</loc>
   </url><url>
+    <loc>//localhost:1313/hugo_portfolio/television/</loc>
+  </url><url>
     <loc>//localhost:1313/hugo_portfolio/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/services/estudio4/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/service/estudio4/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/home/</loc>
   </url><url>
@@ -26,17 +28,15 @@
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/services/estudio3/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/service/estudio3/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/programacion/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/services/estudio2/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/service/estudio2/</loc>
   </url><url>
-    <loc>//localhost:1313/hugo_portfolio/home/services/estudio1/</loc>
-  </url><url>
-    <loc>//localhost:1313/hugo_portfolio/television/</loc>
+    <loc>//localhost:1313/hugo_portfolio/home/service/estudio1/</loc>
   </url><url>
     <loc>//localhost:1313/hugo_portfolio/television/</loc>
   </url><url>

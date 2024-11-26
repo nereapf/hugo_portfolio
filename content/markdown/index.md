@@ -1,5 +1,5 @@
 +++
-title = "uso del Markdown"
+title = "Uso del Markdown"
 +++
 
 Markdown es un lenguaje de marca que de una forma sencilla agrega formato a textos en la web y
@@ -7,9 +7,9 @@ funciona incorporando algunos caracteres a nuestro contenido.
 
 Podemos ver tres secciones de markdown difernetes:
 
- - [Markdown basico](basico.md)
- - [Markdown de gráficos](graficos.md)
- - [Markdown extendido](extendido.md)
+- [Markdown básico](./basico/)
+- [Markdown de gráficos](./graficos/)
+- [Markdown extendido](./extendido/)
 
 ### Markdown en HUGO
 

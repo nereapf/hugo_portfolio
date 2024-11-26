@@ -1,5 +1,6 @@
 +++
 title = "Markdown básico"
+url = "/markdown/basico/"
 +++
 
 ### Titulos

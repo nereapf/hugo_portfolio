@@ -1,5 +1,6 @@
 +++
 title = "Markdown de gráficos"
+url = "/markdown/graficos/"
 +++
 
 ### Mermaid

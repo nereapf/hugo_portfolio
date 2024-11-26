@@ -1,5 +1,6 @@
 +++
 title = "Markdown extendido"
+url = "/markdown/extendido/"
 +++
 
 ### Tablas

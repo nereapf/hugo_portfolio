@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pasatiempos e intereses on Portfolio de Nerea</title>
+    <link>//localhost:1313/hugo_portfolio/home/download/</link>
+    <description>Recent content in Pasatiempos e intereses on Portfolio de Nerea</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/hugo_portfolio/home/download/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viajar</title>
+      <link>//localhost:1313/hugo_portfolio/home/download/viajar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/download/viajar/</guid>
+      <description>&lt;p&gt;Siempre me ha apasionado viajar, ir a todos los países que pueda para conocer culturas, haciendo todo lo que pueda para conseguirlo. Y estoy segura de que lo lograré ya que me queda toda la vida por delante.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fotografía</title>
+      <link>//localhost:1313/hugo_portfolio/home/download/fotografia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/download/fotografia/</guid>
+      <description>&lt;p&gt;Desde pequeña me han llamado la atención las cámaras, por lo que siempre que puedo hago fotos a mi entorno para capturar los momentos y tener un recuerdo de ellos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deportes</title>
+      <link>//localhost:1313/hugo_portfolio/home/download/deportes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/download/deportes/</guid>
+      <description>&lt;p&gt;Soy una persona a la que le gusta probar cosas nuevas, por lo que he probado diferentes deportes. A lo largo de mi vida he jugado baloncesto, tenis, he dado clases de GAP, y he aprendido a hacer skate. Y a día de hoy también he probado el esquí y el surf aunque no los practico profesionalmente.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Música</title>
+      <link>//localhost:1313/hugo_portfolio/home/download/musica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/hugo_portfolio/home/download/musica/</guid>
+      <description>&lt;p&gt;Me encanta la música por que me ha acompañado a lo largo de mi vida, escuchando música en el día a día además de haber dado clases de piano por 4 años.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
